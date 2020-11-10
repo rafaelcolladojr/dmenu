@@ -3,5 +3,7 @@
 *.o
 *.diff
 patches
+dmenu
 dmenu_path
 dmenu_run
+stest
